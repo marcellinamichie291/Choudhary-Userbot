@@ -1,7 +1,7 @@
 {
-  "name": "ᴛʜᴇ ᴍᴀʜᴀᴋᴀᴀʟʙᴏᴛ",
-  "description": "The MahakaalBot made by @Belongs_to_Lord_Shiva_nd_Haryana special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @Official_MahakaalBot_Support",
-  "logo": "https://telegra.ph/file/9967bb61bb287b1753ce2.jpg",
+  "name": "Choudhary-Userbot",
+  "description": "The Choudhary-Userbot made by @D4nGeR_0pBolte special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @Official_MahakaalBot_Support",
+  "logo": "https://telegra.ph/file/07954f4988b2de090d13d.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/M4H4KA4L/MAHAKAALBOT/",
-  "website": "https://github.com/M4H4KA4L/MAHAKAALBOT/",
+  "repository": "https://github.com/Dangerop/Choudhary-Userbot/",
+  "website": "https://github.com/Dangerop/Choudhary-Userbot//",
   "success_url": "https://t.me/Official_MahakaalBot_Support",
   "env": {
     "ENV": {
@@ -24,7 +24,7 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name or Username like @Belongs_to_Lord_Shiva_nd_Haryana. By default it is Mahakaal User",
-      "value": "@Official_MahakaalBot_Support",
+      "value": "@FOR_Unfban",
       "required": false
     },
     "ABUSE": {
@@ -34,22 +34,22 @@
     },    
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .mahakaal Command.",
-      "value": "😈MAHAKAALBOT IS ALIVE😈",
+      "value": "😈 Choudhary-Userbot IS ALIVE😈",
       "required": false
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .mahakaal command.",
-      "value": "https://telegra.ph/file/f1c4238435c77fdeb6704.mp4",
+      "value": "https://telegra.ph/file/07954f4988b2de090d13d.jpg",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "😈LEGEND'S SAY'S TO MAHAKAALBOT😈",
+      "value": "😈LEGEND'S SAY'S TO Choudhary-Userbot😈",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/f1c4238435c77fdeb6704.mp4",
+      "value": "https://telegra.ph/file/07954f4988b2de090d13d.jpg",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
@@ -77,7 +77,7 @@
     },
     "MAHAKAALBOT_LOGGER": {
       "description": "Create a private channel/group add rose then type /id in group.",
-      "value": "-1001174481876"
+      "value": "-1001556050521"
     },
     "STRING_SESSION": {
       "description": "Get this value by running https://repl.it/@M4H4KA4L/MAHAKAALBOT#main.py ",
@@ -85,7 +85,7 @@
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API.Required for updater to work.",
-      "value": "22c9f205-3860-48e7-a1e5-457c15480877",
+      "value": "db5a66c6-e9bd-403f-9f40-47f2602a399a",
       "required": true
     },
     "HEROKU_APP_NAME": {
