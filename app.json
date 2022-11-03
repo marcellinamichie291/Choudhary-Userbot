@@ -1,6 +1,6 @@
 {
   "name": "Choudhary-Userbot",
-  "description": "The Choudhary-Userbot made by @D4nGeR_0pBolte special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @Official_MahakaalBot_Support",
+  "description": "The Choudhary-Userbot made by @D4nGeR_0pBolte special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @QN_Team_support",
   "logo": "https://telegra.ph/file/07954f4988b2de090d13d.jpg",
     "keywords": [
     "telegram",
@@ -11,7 +11,7 @@
   ],
   "repository": "https://github.com/Dangerop/Choudhary-Userbot/",
   "website": "https://github.com/Dangerop/Choudhary-Userbot//",
-  "success_url": "https://t.me/Official_MahakaalBot_Support",
+  "success_url": "https://t.me/QN_Team_support",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
